@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219146966114",
+    "project_id": "chat-beaaa",
+    "storage_bucket": "chat-beaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219146966114:android:c151040c592d0eeeaf2d3b",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219146966114-2uia5lvf5ppaiqiei0kbuk71pl9cigj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyB_KEKWl5t0qQK0CinPLuG42qA2jh8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219146966114-2uia5lvf5ppaiqiei0kbuk71pl9cigj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
